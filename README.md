@@ -1,0 +1,2 @@
+# EmojiPedia
+Practicing React Components.
